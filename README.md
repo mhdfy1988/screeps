@@ -1,5 +1,5 @@
 # screeps
- 
+``` 
 server2_screepspl_us
 //spawn1
 Game.spawns['Spawn1'].memory.minHarvester = 3;
@@ -36,4 +36,4 @@ Game.spawns['Spawn2'].memory.minLongDistanceHarvesters = {
 Game.spawns['Spawn2'].memory.patrolRoute = {
     'p1_W12N19':['flag7','flag4','flag5','flag6']
 };
-
+```
